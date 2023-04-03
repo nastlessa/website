@@ -438,17 +438,7 @@ body {
 	}
 }
 
-/* Video start*/
-.Video{
-    margin-bottom: 60px;
-}
 
-.Video_wrapper{
-    max-width: 1226px;
-    margin: 0 auto;
-    position: relative;
-}
-/* Video end*/
 
 /* Cursor start */
 .pointer {
@@ -509,5 +499,3 @@ h1 span{
    .scale:hover {
     transform: scale(1.8); /* Увеличиваем масштаб */
    }
-
-   
